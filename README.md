@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,100:006400&height=200&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=800&color=00FF87&center=true&vCenter=true&width=600&lines=IT+WORKS+ON+MY+MACHINE;DEPLOY+ON+FRIDAY;FIX+LATER;WHO+WROTE+THIS+CODE" />
 </p>
 
 <p align="center">
